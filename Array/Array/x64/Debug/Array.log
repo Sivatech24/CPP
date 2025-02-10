@@ -1,0 +1,5 @@
+﻿  Array.cpp
+C:\Users\tech\Documents\C++\Array\Array.cpp(57,6): error C2086: 'int i': redefinition
+      C:\Users\tech\Documents\C++\Array\Array.cpp(28,6):
+      see declaration of 'i'
+  
